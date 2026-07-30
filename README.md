@@ -35,8 +35,14 @@ after skills applied, the Agent's output will be extremely compressed:
 ## Testing Report
 
 <p align="center">
-  <img src="assets/sessionReport.png" alt="Session Report" width="720">
+  <img src="assets/sessionCompareDashboard.png" alt="Session Compare Dashboard" width="720"><br><br>
+  <img src="assets/sessionReport.png" alt="Session Report" width="720"><br><br>
+  <img src="assets/output-1.png" alt="Output Report" width="720">
 </p>
+
+| Before | After |
+| :---: | :---: |
+| <img src="assets/output-before.png" alt="Before" width="360"> | <img src="assets/output-after.png" alt="After" width="360"> |
 
 
 ## Other core skills
