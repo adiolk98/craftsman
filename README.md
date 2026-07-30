@@ -35,8 +35,6 @@ after skills applied, the Agent's output will be extremely compressed:
 ## Testing Report
 
 <p align="center">
-  <img src="assets/dastboardout.png" alt="Dashboard Overview" width="720"><br><br>
-  <img src="assets/sessionCompareDashboard.png" alt="Session Compare Dashboard" width="720"><br><br>
   <img src="assets/sessionReport.png" alt="Session Report" width="720">
 </p>
 
