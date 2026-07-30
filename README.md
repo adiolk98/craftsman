@@ -32,6 +32,14 @@ after skills applied, the Agent's output will be extremely compressed:
 - Strictly uses bullet points
 - **Usage**: Use alone, or combine with other commands, like `/commit with /craftsman`. You can also add it to `CONTEXT.md` to make it a persistent project rule.
 
+## Testing Report
+
+<p align="center">
+  <img src="assets/dastboardout.png" alt="Dashboard Overview" width="720"><br><br>
+  <img src="assets/sessionCompareDashboard.png" alt="Session Compare Dashboard" width="720"><br><br>
+  <img src="assets/sessionReport.png" alt="Session Report" width="720">
+</p>
+
 
 ## Other core skills
 
