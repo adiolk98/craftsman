@@ -1,25 +1,39 @@
 <p align="center">
+  <img src="assets/Craftsman-banner.png" alt="Craftsman Banner" width="720">
+</p>
+
+<p align="center">
   <strong>Craftsman</strong>
 </p>
 
 <p align="center">
-  Make your AI Agent shut up and focus on the work.<br>
+  Wrok with your skills. Make agent shut up & focus on the work.<br>
   No yapping. Zero noise. High signal.
 </p>
 
 ---
 
-Craftsman is a collection of Skills designed for AI Agents. Inspired by Caveman, but adopting a professional and serious craftsman spirit.
-Once installed, you can force the Agent to stop all nonsense, greetings, and step-by-step explanations, outputting only the most concise and professional bullet points or code.
+Craftsman is for optimize agents output and token.
+1. stop all nonsense
+2. stop greetings
+3. stop step-by-step explanations
+4. outputting only the most concise and professional bullet points or code.
 
-## Core Skills
+## Suggest use
+
+```
+/implement with /craftsman impl the user interface with following struct. 
+```
 
 ### `/craftsman`
-When this skill is applied, the Agent's output will be extremely compressed:
+after skills applied, the Agent's output will be extremely compressed:
 - Rejects all conversational filler
 - Rejects step-by-step explanations, providing only final results or code
 - Strictly uses bullet points
 - **Usage**: Use alone, or combine with other commands, like `/commit with /craftsman`. You can also add it to `CONTEXT.md` to make it a persistent project rule.
+
+
+## Other core skills
 
 ### `/craftsman-write-skills`
 Helps you write or refactor high-quality Skills. It inherits the craftsman spirit:
@@ -29,14 +43,7 @@ Helps you write or refactor high-quality Skills. It inherits the craftsman spiri
 
 ## Installation
 
-You can clone this repository and run the installation script to easily sync the skills to your `~/.gemini/skills/` directory:
-
-```bash
-git clone https://github.com/your-username/craftsman.git
-cd craftsman
-./install.sh
-```
-
+Use the `install.sh` shell script or use `npx skills@lates kokp520/craftsman` to apply.
 
 
 
