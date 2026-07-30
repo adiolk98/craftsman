@@ -37,12 +37,21 @@ after skills applied, the Agent's output will be extremely compressed:
 <p align="center">
   <img src="assets/sessionCompareDashboard.png" alt="Session Compare Dashboard" width="720"><br><br>
   <img src="assets/sessionReport.png" alt="Session Report" width="720"><br><br>
+  <span align="center">The following is example for output</span><br>
   <img src="assets/output-1.png" alt="Output Report" width="720">
+
+<p align="center">
+      Same prompt with and without /craftsman<br>
+      prompt: <code>/craftsman help me uderstand this repo.</code>
 </p>
+
+<div align="center">
 
 | Before | After |
 | :---: | :---: |
 | <img src="assets/output-before.png" alt="Before" width="360"> | <img src="assets/output-after.png" alt="After" width="360"> |
+
+</div>
 
 
 ## Other core skills
