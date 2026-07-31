@@ -64,4 +64,4 @@ Helps you write or refactor high-quality Skills. It inherits the craftsman spiri
 
 ## Installation
 
-Use the `install.sh` shell script or use `npx skills@lates kokp520/craftsman` to apply.
+Use the `install.sh` shell script or use `npx skills@lates adiolk98/craftsman` to apply.
