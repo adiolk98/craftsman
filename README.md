@@ -64,4 +64,11 @@ Helps you write or refactor high-quality Skills. It inherits the craftsman spiri
 
 ## Installation
 
-Use the `install.sh` shell script or use `npx skills@lates adiolk98/craftsman` to apply.
+### Skills CLI / Antigravity / Agentic tools
+Use `npx skills@latest adiolk98/craftsman` or run `./install.sh`.
+
+### Gemini CLI Extension
+Use `gemini extension install adiolk98/craftsman` or point to local path.
+
+### Claude Code Plugin
+Install via Claude plugin command or register `adiolk98/craftsman`.

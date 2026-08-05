@@ -1,0 +1,12 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "craftsman",
+  "description": "Enforce extreme conciseness, high-signal, zero-noise output. No yapping.",
+  "plugins": [
+    {
+      "name": "craftsman",
+      "description": "Enforce extreme conciseness, high-signal, zero-noise output. No yapping.",
+      "source": "./"
+    }
+  ]
+}
